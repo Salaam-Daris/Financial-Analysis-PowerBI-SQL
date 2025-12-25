@@ -1,4 +1,4 @@
-# 📊 Financial Analysis using Power BI
+# 📊 Financial Analysis using Power BI and SQL
 
 ## 🧩 Overview
 
