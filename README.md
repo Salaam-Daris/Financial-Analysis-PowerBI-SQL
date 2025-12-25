@@ -39,4 +39,5 @@ It provides a clear and simple way to track business performance, making it easi
 - **Power BI Desktop** – For building and designing the dashboard
 - **Microsoft Excel** – Used as the data source
 
+
 ![Dashboard Screenshot](https://github.com/Salaam-Daris/Financial-Analysis-PowerBI/blob/1d490e6ff9c49466ca35b31a2583e3b757a53c42/FinancialDashboardScreenshot.PNG)
